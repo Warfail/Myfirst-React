@@ -1,12 +1,4 @@
-// // import Komponen from "./Materi/Komponen";
-// import {Container, Navbar, Nav, Button} from "react-bootstrap";
-// import {
-//   BrowserRouter,
-//   Routes,
-//   Route,
-//   Link,
-// } from "react-router-dom";
-// import { Button } from 'reactstrap';
+import React from 'react';
 import Footer from "./Components/Footer/Footer";
 import { Header } from "./Components/Header/Header";
 import { Intro } from "./Components/Intro/Intro";
@@ -23,13 +15,11 @@ function App() {
   return (
     
     <div className="App">
-     <Header/>
-     <Intro/>
-     <Skill/>
-     
-     <Question/>
-     
-     <Footer/>
+    <Header/>
+    <Intro/>
+    <Skill/>
+    <Question/>
+    <Footer/>
     </div>
     
   );
