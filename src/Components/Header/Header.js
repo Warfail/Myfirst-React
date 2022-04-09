@@ -45,7 +45,7 @@ export const Header = () => {
             >
               Skill
             </DropdownToggle>
-            <DropdownMenu right>
+            <DropdownMenu end>
               <DropdownItem>
                 PHP
               </DropdownItem>
@@ -55,7 +55,6 @@ export const Header = () => {
               <DropdownItem>
                 JavaScript
               </DropdownItem>
-              {/* <DropdownItem divider /> */}
             </DropdownMenu>
           </UncontrolledDropdown>
         </Nav>

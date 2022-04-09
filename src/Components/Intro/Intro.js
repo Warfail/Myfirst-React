@@ -18,8 +18,9 @@ export const Intro = () => {
       fluid="md"
       
     >
-      Perkenalkan nama saya Rezky Agung Kurniawan saya adalah mahasiswa dari Universitas Kristen Satya Wacana. Saya biasanya menghabiskan waktu saya dengan coding dan bermain game, karena moto saya adalah <i>work hard play hard.</i> Saya memiliki kepribadian
+      <p>Perkenalkan nama saya Rezky Agung Kurniawan saya adalah mahasiswa dari Universitas Kristen Satya Wacana. Saya biasanya menghabiskan waktu saya dengan coding dan bermain game, karena moto saya adalah <i>work hard play hard.</i> Saya memiliki kepribadian
              bersahabat dan mudah membaur, namun tetap untuk menilai karakter seseorang tetap dari siapa yang melihat. Saya hanya melihat karakter saya sendiri dari kacamata saya. untuk kepribadian saya silahkan anda yang menentukan.
+             </p>
     </Col>
   
   </Row>
