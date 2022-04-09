@@ -31,7 +31,7 @@ import './Skill.css'
         </div>
         <div className="btn">
           
-          <a>
+          <a href="https://github.com/Warfail">
             Repository
           </a>
           
@@ -54,7 +54,7 @@ import './Skill.css'
         </div>
         <div className="btn">
           
-          <a>
+          <a href="https://github.com/Warfail">
             Repository
           </a>
           
@@ -77,7 +77,7 @@ import './Skill.css'
         </div>
         <div className="btn">
           
-          <a>
+          <a href="https://github.com/Warfail">
             Repository
           </a>
           
